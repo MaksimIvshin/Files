@@ -18,6 +18,6 @@ UIKit, MVC, SnapKit, Navigation Controller, UITableView, UITableViewCell, UIDate
 
 ## Screenshots
 
-![](https://github.com/MaksimIvshin/Innowise/blob/screenshots/AddView_.jpg) ![](https://github.com/MaksimIvshin/Innowise/blob/screenshots/AddView_.jpg)
+![](https://github.com/MaksimIvshin/Innowise/blob/screenshots/AddView_.jpg)     ![](https://github.com/MaksimIvshin/Innowise/blob/screenshots/AddView_.jpg)
 
 
